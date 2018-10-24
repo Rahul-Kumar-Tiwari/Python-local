@@ -1,8 +1,8 @@
 x=0
-while (x<10):
+while (x<10):                   #while loop
 
         print("Value of x is ",x)
-        x=x+1
+        x=x+1                           #incrementing by 1
 
 counter =100
 while(counter>0):
